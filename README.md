@@ -1,6 +1,8 @@
 
 > Open this page at [https://sweeistaken.github.io/car-game-scratch-controllor/](https://sweeistaken.github.io/car-game-scratch-controllor/)
 
+  Please use Edit this project...
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
